@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background: black;
+}
+
+a {
+    color: #f701ba;
+}
+
+
+.linkContainer {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.art {
+    max-width: 100vw;
+}
